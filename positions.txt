@@ -1,0 +1,7 @@
+-345 704 monkey position
+-354 709 advanced challenge position
+-737 879 new game position
+-723 998 alch position
+-618 1000 druid position
+-702 919 next button position
+-939 864 home button position
